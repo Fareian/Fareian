@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.9.0",
+    "hardhat": "^2.22.19"
+  }
+}
