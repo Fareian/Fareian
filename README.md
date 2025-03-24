@@ -1,3 +1,16 @@
+# Fareian's GitHub Profile
+
+- 👋 Hi, I'm @Fareian
+- 👀 I'm interested in blockchain development and smart contracts
+- 🌱 I'm currently learning Ethereum development
+- 💞️ I'm looking to collaborate on blockchain projects
+- 📫 How to reach me ...
+
+<!---
+Fareian/Fareian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 # Ethereum Contract Deployment Bot
 
 This bot automatically deploys smart contracts to the Ethereum network with improved error handling and rate limiting.
@@ -69,4 +82,4 @@ The bot will:
 
 ## License
 
-MIT 
+MIT
